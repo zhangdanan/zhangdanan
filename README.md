@@ -24,8 +24,8 @@
 
 <p align="center">
 <a href="https://www.zhihu.com/people/feng-pei-ban-de-xia-tian/"><img alt="知乎" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.jianshu.com/u/35cb7bd5a133/"><img alt="简书" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://space.bilibili.com/207495874?spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.10/"><img alt="BiliBili" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.jianshu.com/u/35cb7bd5a133/"><img alt="简书" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=简书"></a>
+<a href="https://space.bilibili.com/207495874?spm_id_from=333.851.b_696e7465726e6174696f6e616c486561646572.10/"><img alt="BiliBili" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=BiliBili"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/zhangdanan)
+⭐️ From [zhangdanan](https://github.com/zhangdanan)
