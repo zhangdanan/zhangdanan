@@ -1,6 +1,6 @@
 <h2> Hey there! I'm zhangdanan.</h2>
 
-![image](https://github.com/zhangdanan/zhangdanan/blob/master/dino.gif)
+![image](https://gitee.com/zhangdanana/image/raw/master/img/dino.gif)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
