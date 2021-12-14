@@ -2,28 +2,25 @@
 
 ![image](https://gitee.com/zhangdanana/image/raw/master/img/dino.gif)
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown 
-- 🖥 &nbsp; Illustrator| Photoshop 
-
-<br/>
-
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangdanan&show_icons=true)](https://github.com/zhangdanan)
-
-
-
+<a href="https://github.com/zhangdanan/zhangdanan.github.io">
+  <img alt="zhangdanan.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdanan&repo=zhangdanan.github.io&show_owner=true" />
+</a>
+<a href="https://github.com/zhangdanan/zhangdanan">
+  <img alt="zhangdanan" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdanan&repo=zhangdanan" />
+</a>
+<a href="https://github.com/zhangdanan/springbootdemo">
+  <img alt="springbootdemo" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdanan&repo=springbootdemo" />
+</a>
+<a href="https://github.com/zhangdanan/KnowledgeOut">
+  <img alt="KnowledgeOut" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdanan&repo=KnowledgeOut" />
+</a>
+<a href="https://github.com/zhangdanan/JavaNotes">
+  <img alt="JavaNotes" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangdanan&repo=JavaNotes" />
+</a>
+<a href="https://github.com/zhaoolee/ChromeAppHeroes">
+  <img alt="ChromeAppHeroes" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoolee&repo=ChromeAppHeroes" />
+</a>
 
 
 ⭐️ From [zhangdanan](https://github.com/zhangdanan)
